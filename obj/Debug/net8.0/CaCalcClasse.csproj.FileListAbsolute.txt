@@ -1,0 +1,15 @@
+C:\Users\coelho\source\repos\CalcClasse\bin\Debug\net8.0\CaCalcClasse.exe
+C:\Users\coelho\source\repos\CalcClasse\bin\Debug\net8.0\CaCalcClasse.deps.json
+C:\Users\coelho\source\repos\CalcClasse\bin\Debug\net8.0\CaCalcClasse.runtimeconfig.json
+C:\Users\coelho\source\repos\CalcClasse\bin\Debug\net8.0\CaCalcClasse.dll
+C:\Users\coelho\source\repos\CalcClasse\bin\Debug\net8.0\CaCalcClasse.pdb
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\CaCalcClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\CaCalcClasse.AssemblyInfoInputs.cache
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\CaCalcClasse.AssemblyInfo.cs
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\CaCalcClasse.csproj.CoreCompileInputs.cache
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\CaCalcClasse.sourcelink.json
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\CaCalcClasse.dll
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\refint\CaCalcClasse.dll
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\CaCalcClasse.pdb
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\CaCalcClasse.genruntimeconfig.cache
+C:\Users\coelho\source\repos\CalcClasse\obj\Debug\net8.0\ref\CaCalcClasse.dll

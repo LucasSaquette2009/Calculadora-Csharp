@@ -19,7 +19,6 @@ while (true)//voltar pro menu
     {
         Funcoes.ApagarAviso();
         Console.Write("Digite uma opção válida! ");
-        Thread.Sleep(1000);
     }
 
     do
