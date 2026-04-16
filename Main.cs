@@ -8,7 +8,7 @@ int opcao;
 while (true)//voltar pro menu
 {
     Console.Clear();
-    Console.SetCursorPosition(50, 0); Console.WriteLine("Calculadora De DS");
+    Console.SetCursorPosition(50, 0); Console.WriteLine("Calculadora (4 Funções)");
     Console.WriteLine("[1] Adição");
     Console.WriteLine("[2] Subtração");
     Console.WriteLine("[3] Divisão");

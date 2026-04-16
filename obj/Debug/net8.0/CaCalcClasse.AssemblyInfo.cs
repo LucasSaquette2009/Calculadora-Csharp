@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaCalcClasse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80377fcc3f06a5b6a8912f4e0027b7d4ffa16c99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a8994a4eb89bb304fe3f8e6244aae22d9cd3efb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaCalcClasse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaCalcClasse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
